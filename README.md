@@ -1006,6 +1006,8 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Refs](https://refs.video) - Refs is a library of 3000+ films that moved people, each measured cut by cut and written up as a 15-plate blueprint with a recipe prompt.
 - [Visemix](https://lipsync.vip) - Visemix creates AI lip sync videos and talking photos using authorized audio, recording or text.
 - [AI Zombie](https://ai-zombie.com) - AI Zombie (ai-zombie.com) makes the viral zombie trend video, the "zombie hug" love story, from two photos. Add one photo of each person or pet and choose who turns. You get a 15-second MP4 with….
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent text/image-to-video AI studio (not affiliated with xAI or X); free trial available.
+
 
 ## 🎨 Image, Design & 3D
 
@@ -1135,6 +1137,9 @@ The goal: make useful indie AI products easier to find, share, and support.
 - [Sharpniq](https://unblurimage.me) - Sharpniq is an online AI tool for sharpening blurry photos.
 - [Odyssey 3](https://odyssey.systems/meet-odyssey-3) - Odyssey-3 is a foundation world model that generates interactive environments from a prompt and predicts in real time how they change as you or an agent act in them.
 - [3dlogoai](https://3dlogoai.com) - Generate 3D or 2D logos from your company name or slogan.
+- [PromptImage](https://promptimage.cloud) - Free AI image gallery and AI image/video generator with a prompt library; core use free, signup credits, no card required.
+- [TeslaWraps](https://teslawraps.design) - Browser tool to design Tesla Paint Shop-style wraps; core editor free without an account, paid AI credits optional.
+
 
 ## ✍️ Writing & Content
 
